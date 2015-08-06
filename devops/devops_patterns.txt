@@ -1,0 +1,5 @@
+# Devops Patterns
+
+Use a dead man switch as a monitoring method. A cron job can call a certain
+endpoint on completion. If it is not called within a certain amount of time,
+it means the cron job failed.
