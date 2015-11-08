@@ -10,4 +10,4 @@ Why do rewrites fail? there is much more knowledge in the code than we realize
 
 Why functional over oo
 Functional means you are reusing the same datatypes (eg lists, strings, etc)
-where in OO you are creating new objects
+where in OO you are creating new datatypes

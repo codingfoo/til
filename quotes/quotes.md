@@ -1,6 +1,6 @@
 # Quotes and Aphorisms
 
-Still working on find the correct attribution
+*Still working on finding the correct attribution*
 
 Price is what you pay. Value is what you get.
 —Warren Buffet by way of Benjamin Graham

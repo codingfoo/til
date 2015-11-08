@@ -1,2 +1,3 @@
+# Javascript this pattern
 If you need the original this and the this outside the closure, then use _self.
 var _self = this;

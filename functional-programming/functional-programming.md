@@ -10,5 +10,5 @@ Algebraic data type is a composite data type
 
 first order functions:
 - naming separate from defining
-- allows us to define anonymous functions
-- name later them if need be
+- are definable as anonymous functions
+- can be named later

@@ -1,9 +1,10 @@
-# Home Security recommendations
+# Home Security Recommendations
+
 segment your network, guest from home
 
-never use default passwords, change passwords on routers, etc
+never use default passwords, change passwords on routers, printers, etc
 
-keep things patched
+keep things updated
 
 use opendns
 
