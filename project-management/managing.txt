@@ -1,0 +1,7 @@
+> They think that if someone doesn't have a manager telling them what to do then they won't do anything
+
+As someone who has moved from being an IC to being a manager, I can assure you that's not true. What we do think is that an engineer won't necessarily work on the right things. Engineers have a tendency to work on something until they've solved it, which isn't the same things as finishing it. This is why personal projects usually end up being unfinished and unpolished. Engineers also sometimes let the perfect become the enemy of the good. The oft-cited Malcolm in the Middle episode (http://www.youtube.com/watch?v=RHpJFROEOmg) illustrates this well.
+
+As a manager, I don't see it as my job to keep my team busy or even productive...they do that on their own. I see it as my job to keep them focused, particularly on the tasks that will provide the most benefit for the business.
+
+- Hackernews comment
