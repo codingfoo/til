@@ -1,0 +1,35 @@
+# SSH
+
+Use public / private keys
+
+chmod 600 for files in .ssh folder
+chmod 700 for .ssh folder
+
+ssh-add after restart
+
+ssh-agent
+  ssh-add -l
+
+passphrase - encrypts key on disk
+
+agent forwarding -
+  key without passphrase must be loaded into chain, it will work locally
+
+config
+  Host *.amazonaws.com
+    StrictHostKeyChecking no
+    UserKnownHostsFile=/dev/null
+
+  Host 127.0.0.1
+    StrictHostKeyChecking no
+    UserKnownHostsFile=/dev/null
+
+  Host *
+    ServerAliveInterval 600
+    TCPKeepAlive yes
+    ForwardAgent yes
+    GSSAPIAuthentication no
+    #IdentitiesOnly yes
+    #ControlMaster auto
+    #ControlPersist yes
+    #ControlPath /tmp/ssh-%r@%h:%p
