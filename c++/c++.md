@@ -8,5 +8,10 @@ forward declare everything
 Flags: gcc -std=c99 -Wall -Wextra -Werror
 
 Books:
+
 The Design and Evolution of C++ by Bjarne Stroustrup
+
 21st Century C: C Tips from the New School by Ben Klemens
+
+C Traps and Pitfalls (1988) [pdf] | Hacker News
+https://news.ycombinator.com/item?id=9746846
