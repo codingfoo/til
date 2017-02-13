@@ -1,9 +1,0 @@
-# Devops Patterns
-
-The purpose of "devops" is to teach others.
-
-Use a dead man switch as a monitoring method. A cron job can call a certain
-endpoint on completion. If it is not called within a certain amount of time,
-it means the cron job failed.
-
-for background jobs, run multiple clones of the same job and then whichever completes first wins
